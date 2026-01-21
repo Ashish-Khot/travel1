@@ -1,0 +1,66 @@
+.bg {
+  background: #f8fafc;
+}
+.paper {
+  border-radius: 32px;
+  padding: 40px 32px 32px 32px;
+  max-width: 420px;
+  width: 100%;
+  box-shadow: 0 8px 40px 0 rgba(34,197,94,0.10), 0 1.5px 8px 0 rgba(6,182,212,0.10);
+}
+.avatar {
+  margin-bottom: 8px;
+  width: 64px !important;
+  height: 64px !important;
+  font-size: 2rem;
+}
+.roleGroup {
+  margin-bottom: 24px;
+  background: #f3f4f6;
+  border-radius: 16px;
+  box-shadow: none;
+}
+.roleBtn {
+  flex: 1 1 0;
+  border: none !important;
+  background: transparent !important;
+  border-radius: 16px !important;
+  margin: 0 2px !important;
+  padding: 12px 0 !important;
+  min-width: 0;
+  transition: background 0.2s;
+}
+.roleBtn.Mui-selected {
+  background: #e0f7ef !important;
+  color: #22c55e !important;
+  box-shadow: 0 2px 8px 0 rgba(34,197,94,0.10);
+}
+.form {
+  margin-top: 8px;
+}
+.loginBtn {
+  border-radius: 12px !important;
+  box-shadow: 0 2px 12px 0 rgba(34,197,94,0.10);
+  text-transform: none !important;
+}
+.registerLink {
+  color: #22c55e;
+.paper {
+  border-radius: 28px;
+  padding: 28px 18px 18px 18px;
+  max-width: 370px;
+  width: 100%;
+  box-shadow: 0 8px 40px 0 rgba(34,197,94,0.10), 0 1.5px 8px 0 rgba(6,182,212,0.10);
+}
+  text-decoration: none;
+}
+.registerLink:hover {
+.bg {
+  background: #f8fafc;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+  text-decoration: underline;
+}
